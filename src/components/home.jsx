@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function home() {
   return (
-    <div>gifsn
-      
+    <div>
+      Placement Prepare Web App
     </div>
   )
 }
